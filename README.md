@@ -23,4 +23,4 @@ MySQL,
 Microsoft Power BI
 
 ## Presentation
-![Ad_hoc Indights Presentation_PNG](https://user-images.githubusercontent.com/99702912/221178716-7736d999-38f9-4836-b74b-89e903396272.png)
+[sample.pptx](https://github.com/kadamhari825/Consumer-goods-Ad-hoc-analysis/files/10833716/sample.pptx)
