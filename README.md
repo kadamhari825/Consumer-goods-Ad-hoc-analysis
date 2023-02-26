@@ -23,4 +23,5 @@ MySQL,
 Microsoft Power BI
 
 ## Presentation
-[sample.pptx](https://github.com/kadamhari825/Consumer-goods-Ad-hoc-analysis/files/10833716/sample.pptx)
+
+[PPT.pptx](https://github.com/kadamhari825/Consumer-goods-Ad-hoc-analysis/files/10833721/PPT.pptx)
