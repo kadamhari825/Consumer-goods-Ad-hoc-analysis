@@ -24,4 +24,5 @@ Microsoft Power BI
 
 ## Presentation
 
-[PPT.pptx](https://github.com/kadamhari825/Consumer-goods-Ad-hoc-analysis/files/10833721/PPT.pptx)
+![Screenshot (52)](https://user-images.githubusercontent.com/99702912/221411572-fe5dc206-1204-41fb-8881-43ee839350c7.png)
+
