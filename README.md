@@ -20,7 +20,8 @@ The task is to build SQL query to answer 10 ad hoc requests for which the busine
 
 ## Tools:
 MySQL,
-Microsoft Power BI
+MS Excel,
+Power Point presentation.
 
 ## Presentation
 
